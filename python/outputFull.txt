@@ -1,0 +1,1049 @@
+Paving the Way for Safe Routes to School 
+
+Camellia Basic Elementary  
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Walkability and Active Design Report 
+
+March 2015 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This material was developed by PedSafe, a program of the 
+
+California Department of Public Health (CDPH). Funding for the 
+duplication of this material is from an award from CDPH's Kids 
+ 
+
+Plates program. 
+
+TABLE OF CONTENTS 
+SCHOOL LOCATION .................................................................................................................................................................................................................................. 5 
+EXISTING CONDITIONS ............................................................................................................................................................................................................................. 6 
+     Mode Split ........................................................................................................................................................................................................................................... 6 
+     National Center for Safe Routes to School Parent Survey .................................................................................................................................................................. 8 
+          Key Results ...................................................................................................................................................................................................................................... 8 
+     Identifying Barriers to Walking and Biking .......................................................................................................................................................................................... 8 
+          Walk Audit ....................................................................................................................................................................................................................................... 8 
+          Traffic Observations ........................................................................................................................................................................................................................ 9 
+          Walk to School Day and Bike to School Day ................................................................................................................................................................................. 11 
+INFRASTRUCTURE RECOMMENDATIONS............................................................................................................................................................................................... 11 
+     District Recommendations ................................................................................................................................................................................................................ 12 
+     City Recommendations ..................................................................................................................................................................................................................... 13 
+     Additional City Recommendations .................................................................................................................................................................................................... 16 
+     Map of Recommendations ................................................................................................................................................................................................................ 19 
+APPENDIX A: National Center For Safe Routes To School Parent Survey Form ..................................................................................................................................... 20 
+APPENDIX B: National Center For Safe Routes To School Student Travel Tally Form ........................................................................................................................... 21 
+APPENDIX C: WALKSacramento Traffic Behavior Observation Form .................................................................................................................................................... 22 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+School Location 
+ 
+Camellia Basic Elementary School is located at 6600 Cougar Drive in Sacramento. For the 2013 – 2014 school year, 478 students were enrolled, of which 87% 
+were eligible for free or reduced price meals. The campus is a kindergarten through sixth grade academic prep school, so many students commute from outside 
+the area. The 2013 – 2014 attendance boundary is shown below. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Existing Conditions 
+
+Mode Split 
+Using the National Center for Safe Routes to School Student Travel Tally1, pre and post project in‐class tallies of student travel mode were conducted over a 
+period of three days in October 2013 and January 2015. The tally results are shown below.  
+ 
+
+Camellia Basic Elementary Mode Share Split‐Pre 
+
+ 
+
+ 
+Tuesday AM 
+Wednesday PM 
+Thursday AM 
+Thursday PM 
+
+Number of Trips
+
+111 
+59 
+150 
+62 
+
+Walk
+15%
+25%
+22%
+10%
+
+Bike
+0%
+0%
+0.7%
+0%
+
+School Bus
+
+Family Vehicle
+
+0%
+0%
+0%
+0%
+
+84%
+64%
+75%
+90%
+
+Carpool
+0.9%
+10%
+2%
+0%
+
+Transit
+
+0%
+0%
+0%
+0%
+
+Other
+0%
+0%
+0%
+0%
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+Percentages may not total 100% due to rounding. 
+
+Bike
+Carpool
+Walk
+Family Vehicle
+
+Tuesday AM
+
+Wednesday PM Thursday AM
+
+Thursday PM
+
+                                                            
+1 National Center for Safe Routes to School, Evaluation: Student In‐Class Travel Tally, 2013, available http://saferoutesinfo.org/program‐tools/evaluation‐student‐class‐travel‐
+tally. Accessed March 19, 2015. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Camellia Basic Elementary Mode Share Split‐Post 
+
+ 
+Tuesday AM 
+Tuesday PM 
+Wednesday AM 
+Wednesday PM 
+Thursday AM 
+Thursday PM 
+
+Number of Trips
+
+246 
+249 
+220 
+218 
+270 
+272 
+
+Walk
+13%
+16%
+10%
+15%
+11%
+17%
+
+Bike
+0.8%
+1%
+2%
+2%
+1%
+0.7%
+
+School Bus
+
+Family Vehicle
+
+Carpool
+
+Transit
+
+0%
+0.4%
+0%
+0%
+0%
+7%
+
+83%
+78%
+84%
+81%
+82%
+74%
+
+4%
+4%
+5%
+2%
+6%
+2%
+
+0%
+0%
+0%
+0%
+0%
+0%
+
+Other
+0%
+0%
+0%
+0%
+0%
+0%
+
+Percentages may not total 100% due to rounding. 
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+Tuesday AM
+
+Tuesday PM Wednesday AM Wednesday PM Thursday AM
+
+Thursday PM
+
+School Bus
+Bike
+Carpool
+Walk
+Family Vehicle
+
+ 
+
+National Center for Safe Routes to School Parent Survey 
+Parents’ attitudes toward walking and biking were surveyed using the National Center for Safe Routes to School Parent Survey.2 
+
+Key Results: 
+
+ 
+
+  43% of surveyed students living within one‐fourth of a mile of the school walk or bike to campus, while only 13% of students living within one‐fourth and 
+
+1 mile of the school do the same. 
+
+  52% of surveyed students living within one‐fourth of a mile of school walk or bike from campus, while only 17% of students living within one‐fourth and 
+
+1 mile of the school do the same. 
+
+  The issues most frequently cited in a parent’s decision to not allow their child to walk nor bike to school include the distance from school (~70%), 
+
+ 
+
+violence or crime in the neighborhood (~65%), and the safety of intersections and crossings (~50%). 
+ It should be noted that in observations during various SRTS events and through conversations with parents it became clear that some students who 
+walk or bike to school are often picked up by parents who are concerned about unsafe activities in the surrounding neighborhoods after school.  
+
+Identifying Barriers to Walking and Biking 
+ 
+Infrastructure and non‐infrastructure barriers to walking and biking to school were identified through a walk audit and discussions with school staff, parents, and 
+community members. 
+
+Walk Audit 
+ 
+A walk audit was conducted on May 13, 2014 by WALKSacramento staff and participants included Safe Kids California, Safe Kids Greater Sacramento, youth from 
+the George Sims Community Center, and nearby residents. The walk audit focused on an approximate 1/2 mile radius around the school as well as the 
+immediate access points to campus. Special attention was paid to walking comfort, crossing comfort, and driver behavior along the walking routes.   
+
+ 
+
+ 
+ 
+
+ 
+
+                                                            
+2 National Center for Safe Routes to School, Evaluation: Parent Survey, 2009, available http://saferoutesinfo.org/program‐tools/evaluation‐parent‐survey. Accessed 
+March 19, 2015. 
+ 
+
+ 
+
+Traffic Observations 
+
+Pre‐ project traffic observations were conducted in November 2013.  Follow‐up traffic observations were conducted in February 2015.  Participants noted pick‐
+up and drop‐off procedures and walking, biking, and driving behaviors in order to better inform suggestions for the school. The 2015 observation areas are 
+shown below.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+LOCATION 1: Camp Verde Way near schools back entrance gate 
+ 
+
+DROP‐OFF 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Motorists double park to drop off students. Students walk behind and in between vehicles to reach sidewalk near entrance gate. 
+Motorists make illegal U‐turns at the turn in the road. Many do so at high speeds and it is unclear if they are turning right or making the U‐turn. 
+Motorists driving down Camp Verde Way from Rancho Adobe Drive and from Cougar Drive approach bend in the road at high speed. Many come to a 
+halting stop to drop off students. Others continue at high speeds around the turn and drive in on‐coming lane or in the middle of the road. 
+Motorists park on both sides of Camp Verde Way at peak drop‐off time. Some parents drop off students and they walk/run across the street alone. 
+Some parents park and walk students to the entrance gate. As they cross the street they walk between vehicles. 
+Students pull backpacks out of car trunks as other vehicles park behind parent’s vehicle. 
+ 
+PICK‐UP 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Student ran across Camp Verde Way towards the school without looking left‐right‐left. Adult yelled “Watch the cars!” 
+Another student ran across Camp Verde Way but first looked left‐right‐left. 
+Motorist driving on sidewalk, stops and parks with wheels on the sidewalk. 
+Adult picking up student with vehicle parked across the street from the school entrance gate directs student to pass through traffic to cross street. 
+Motorists driving down Camp Verde Way from Rancho Adobe Drive and from Cougar Drive approach bend in the road at high speeds. Many continue 
+at speeding around the turn and drive into on‐coming traffic lane or in the middle of the road. 
+Motorists pull up to school entrance gate and stop in the middle of the road blocking traffic.  
+Motorists double park along school side of Camp Verde Way as they wait to pick‐up students.  
+ 
+
+ 
+ 
+
+LOCATION 2: Sidewalk outside teacher‐only parking lot on Cougar Drive 
+ 
+
+DROP‐OFF 
+ 
+ 
+ 
+ 
+ 
+
+Teacher honking at parents who are blocking entrance to driveway. 
+Motorists is on a cell phone as they drop‐off a student. 
+Motorists make illegal U‐turns on Cougar Drive after they drop‐off students. 
+Motorists park in fire lane.  
+
+ 
+
+ 
+
+LOCATION 3: Crosswalk on Cougar Drive at the front entrance 
+ 
+
+DROP‐OFF 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Motorists speed down Cougar Drive after dropping off students. 
+Motorists do not YIELD to crossing guard. 
+Pedestrians cross at designated crossing and majority wait for crossing guards direction when they are present. 
+ 
+PICK‐UP 
+ 
+ 
+ 
+
+Cyclist biking with child’s bike in hand. Not wearing a helmet. No helmet for the student. 
+Pedestrians cross at designated crossing but majority don’t look left‐right‐left when crossing guard is present. 
+By 1:57pm 40 vehicles are parked along both sides of Cougar Drive waiting for school to let out. One vehicle left engine running about 15 minutes and 
+was parked right in front of the school. 
+Motorists make illegal U‐turns on Cougar Drive after and before picking up students. 
+Motorists park in fire lane. 
+
+Walk to School Day and Bike to School Day 
+ 
+Students participated in International Walk to School Day on October 8, 2014.  The Walk to School Day planning team used recommendations developed at the 
+walk audit to choose the walking routes. In order to help students walk and cross the street safely, washable paint in the schools color was used to mark three 
+walking paths. Safe Kids Greater Sacramento and FedEx volunteers walked with students and distributed safety prizes at the entrance to the school. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Infrastructure Recommendations  
+
+District Recommendations 
+ 
+These recommendations, both infrastructure and non‐infrastructure, would fall under the purview of the Sacramento City Unified School District.  
+
+ID 
+
+1 
+
+Location 
+
+Recommendation 
+
+Rear entrance of 
+the school along 
+Casa Del Sol 
+Avenue 
+
+Extend the internal 
+pathway west along Casa 
+Del Sol Avenue. Relocate 
+the entrance gate at the 
+west end of the pathway.  
+
+Justification 
+
+Casa Del Sol at the South end of the school is used as a primary drop‐off and pick‐up zone. An internal 
+campus pathway provides access to the site. Vehicles begin queuing and double parking at the end of the 
+current pathway causing back‐ups into the surrounding community and requiring some students to enter 
+and exit a vehicle within the street. Students walk in‐between, in front, and behind vehicles to get to the 
+entrance gate. 
+ 
+Continuing the path west along the school’s gate will encourage students and their parents to travel 
+further west on Casa Del Sol Avenue. Lengthening the queuing distance will allow more opportunities for 
+students to enter or exit vehicles at a curb and directly onto the sidewalk while simultaneously lessening 
+the traffic impact on the surrounding community. Furthermore, by encouraging students to exit and enter 
+the school grounds closer to a marked crosswalk, parents may be encouraged to drop off and pick up 
+their students on the south side of the street. This would also serve to reduce traffic congestion in this 
+area. 
+
+ 
+
+ 
+
+Existing 
+
+Path
+
+New Fence 
+Opening 
+
+ 
+
+City Recommendations 
+ 
+These recommendations, both infrastructure and non‐infrastructure, would fall under the purview of the City of Sacramento.  
+
+Location 
+
+Recommendation 
+
+Justification 
+
+Visual 
+
+Along 53rd 
+Avenue 
+
+Place advanced 
+warning signs along 
+53rd Avenue. 
+
+Speed humps improve pedestrian safety and reduce the risk 
+of accidents on residential streets. Placing advanced warning 
+signs prior to the speed humps would forewarn drivers of 
+the need to slow down. If drivers are unaware of the speed 
+humps, the efficacy of the control may be diminished and 
+not lead to the intended traffic calming effect. 
+
+Location 
+
+Recommendation 
+
+Justification 
+
+Intersection 
+of 53rd and 
+Peck Drive 
+
+Paint a crosswalk 
+across Peck Drive on 
+both sides of 53rd 
+Avenue and advance 
+the painted STOP bars 
+toward the oncoming 
+vehicle.  
+ 
+Consider weekly street 
+upkeep on 53rd Ave. 
+
+53rd street is used as an East – West corridor for students 
+walking and biking to school. Crosswalks along 53rd at these 
+locations would improve pedestrian connectivity and access. 
+Advancing the STOP bars would encourage drivers to stop in 
+advance of the new crosswalks, improving pedestrian safety. 
+More frequent upkeep of 53rd Ave. would help reduce the 
+prevalence of debris in bike lanes and along the street. 
+
+Visual 
+
+ 
+
+ 
+
+ID 
+
+2 
+
+ID 
+
+3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ID 
+
+4 
+
+ID 
+
+5 
+
+ 
+
+ 
+
+Location 
+
+Recommendation 
+
+Justification 
+
+Visual 
+
+Intersection 
+of 53rd 
+Avenue and 
+Pontiac Court 
+
+Install a new chain link 
+fence separating the 
+drainage area from the 
+sidewalk.  
+
+Holes in the chain link fence at this location are wide 
+enough to allow children to pass through. The drainage 
+area could pose threats to student’s health and safety in 
+their travel to and from school.   
+
+Location 
+
+Recommendation 
+
+Justification 
+
+ 
+
+Visual 
+
+Intersection 
+of Elder Creek 
+Road and 
+Cougar Drive 
+
+Paint a high visibility 
+crosswalk on the 
+eastern leg of the 
+intersection.  
+
+Some students walk to and from school from residences 
+north of Elder Creek Road. North of the school site, there 
+are three crosswalks only on the eastern legs of the 
+intersections. This encourages students to travel to and 
+from school along this side of the road. However at Elder 
+Creek Road, there is no crosswalk on the eastern leg of the 
+intersection, prompting students to either cross twice at 
+the busy intersection or cross in an unmarked crosswalk. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ID 
+
+6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Location 
+
+Recommendation 
+
+Justification 
+
+Visual 
+
+Paint high visibility 
+crosswalks on the 
+western legs of the 
+intersections.  
+
+Alternatively (to recommendation 5), painting high visibility 
+crosswalks on the western side of Cougar Drive at the 
+intersections or Krishna and Radha Drives would provide 
+marked crossings the entire distance between residences 
+North of Elder Creek Road and the School. This would also 
+reduce the need for students to cross Cougar drive during 
+busy commute times such as pick up and drop of.  
+
+Intersection 
+Cougar Drive 
+and Krishna 
+Drive.  
+ 
+Intersection 
+of Cougar 
+Drive and 
+Radha Drive.  
+
+ 
+
+ 
+
+ 
+
+Additional City Recommendations 
+ 
+
+Location 
+
+Recommendation 
+
+Justification 
+
+Neighborhoods 
+within walking 
+distance of the 
+school. 
+
+Street sweeping and 
+cleanup. 
+ 
+Landscaping of sidewalks. 
+
+The walk audit revealed a number of areas where trash and debris littered the walking and biking path 
+creating obstacles for active modes of transportation.  Vegetation often encroaches upon the walking 
+path. 
+ 
+
+ID 
+
+7 
+
+ 
+ 
+
+ 
+
+ 
+
+ID 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Location 
+
+Recommendation 
+
+Justification 
+
+Neighborhoods 
+within walking 
+distance of the 
+school. 
+
+Targeting the City of 
+Sacramento’s 
+Neighborhood Code 
+Compliance awareness, 
+education, and 
+enforcement efforts 
+
+Large quantities of debris were observed on the walk audit from resident dumping or infrequent clean up. 
+With multiple storm drains nearby this action will also help prevent street flooding and dumping into 
+waterways. 
+ 
+ 
+
+ 
+
+ID 
+
+Location 
+
+Recommendation 
+
+Justification 
+
+Visual 
+
+9  Neighborhoods 
+within walking 
+distance of the 
+school. 
+
+Landscaping around the 
+stop sign at 53rd avenue 
+and Cunningham 
+Boulevard. 
+
+The walk audit revealed the 
+sign is hidden by overgrowth. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Map of Recommendations 
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX A: National Center for Safe Routes to School Parent Survey Form 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+APPENDIX B: National Center for Safe Routes to School Student Travel Tally Form 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX C: WALKSacramento Traffic Behavior Observation Form 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

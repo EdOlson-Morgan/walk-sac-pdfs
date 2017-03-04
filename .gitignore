@@ -4,6 +4,7 @@ node/.DS_Store
 
 # Keep the source data out of the repo
 node/testFiles/
+python/testData/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
