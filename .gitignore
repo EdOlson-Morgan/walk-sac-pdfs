@@ -1,9 +1,9 @@
 # Add some key node ignores in here too
-node_modules/
-.DS_Store
+node/node_modules/
+node/.DS_Store
 
 # Keep the source data out of the repo
-testFiles/
+node/testFiles/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

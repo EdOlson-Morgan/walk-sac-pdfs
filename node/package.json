@@ -4,7 +4,9 @@
   "description": "PDF parser for Walk Sacramento",
   "main": "app.js",
   "dependencies": {
-    "pdf2json": "^1.1.7"
+    "lodash": "^4.17.4",
+    "pdf2json": "^1.1.7",
+    "pdfreader": "^0.1.4"
   },
   "devDependencies": {},
   "scripts": {
