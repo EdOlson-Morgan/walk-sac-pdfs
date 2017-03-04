@@ -1,0 +1,26 @@
+{
+  "name": "walk-sac-pdfs",
+  "version": "0.1.0",
+  "description": "PDF parser for Walk Sacramento",
+  "main": "app.js",
+  "dependencies": {
+    "pdf2json": "^1.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdOlson-Morgan/walk-sac-pdfs.git"
+  },
+  "keywords": [
+    "CodeForSacramento"
+  ],
+  "author": "Ed Olson-Morgan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdOlson-Morgan/walk-sac-pdfs/issues"
+  },
+  "homepage": "https://github.com/EdOlson-Morgan/walk-sac-pdfs#readme"
+}
